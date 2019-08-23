@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: This is Bridge!
+title: Bridge at UCSF
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Bridge! (You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.)
-baseurl: "" # the subpath of your site, e.g. /blog
+  Bridge is an EMR application providing incredible insights into patient
+  needs, tests, and diagnoses.
+baseurl: "bridge.ucsf.edu" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: UCSF
 github_username:

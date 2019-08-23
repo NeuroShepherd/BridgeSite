@@ -23,7 +23,7 @@ email: bridge@ucsf.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a description of Bridge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://bridge.ucsf.edu # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BridgeUCSF
 github_username:
 

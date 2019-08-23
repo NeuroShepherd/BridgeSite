@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bridge at UCSF
-email: your-email@example.com
+title: Bridge
+email: bridge@ucsf.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  This is a description of Bridge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: UCSF
+twitter_username: BridgeUCSF
 github_username:
 
 # Build settings

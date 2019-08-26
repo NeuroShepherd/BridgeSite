@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Bridge"
+title:  "Welcome to BRIDGE!"
 date: 2019-08-26
 categories: jekyll update
 ---

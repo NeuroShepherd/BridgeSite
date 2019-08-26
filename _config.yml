@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bridge
+title: BRIDGE
 email: bridge@ucsf.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a description of Bridge.
+  BRIDGE is an APeX-integrated application enabling
+  enhanced EMR views.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://bridge.ucsf.edu # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BridgeUCSF

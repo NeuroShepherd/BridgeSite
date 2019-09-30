@@ -5,7 +5,7 @@
 layout: page
 ---
 # <font size="5">
-### <center> Real-time precision medicine analytics delivered right to the clinic for visualizing your patient’s health status all at once. </center>
+### <center> Real-time precision medicine analytics delivered right to the clinic for an integrated view of your patient’s health status. </center>
 
 <p align="center">
   <img src="{{site.baseurl}}/images/bridge.jpg" height="325">

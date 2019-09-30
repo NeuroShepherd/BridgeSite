@@ -14,6 +14,3 @@ layout: page
   <br>
   BRIDGE is a clinical informatics system that links to the EMR and performs real-time calculations on patient data.  Delivering clinically relevant, up-to-date, and accurate diagnostic information to providers is vital for delivering world class, individualized patient care. The BRIDGE platform provides dashboard visualizations and quantified views of patient data, including neuroimaging quantifications and normative references for patient testing data, and is directly accessibly within the UCSF APeX (Epic) EHR.
 </p>
-
-
-**Do we want a "Thank You Weill Foundation" on this page or on the About page?**

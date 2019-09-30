@@ -25,6 +25,5 @@ Riley’s first academic passion was anthropology, which she pursued at Harvard 
 #### <center> Stephan Sanders, PhD <center>
 
 <p align="center">
-Stephan text
-(Really long profile on the Sanders Lab website, and really short one on the genomics site.)
+
 </p>

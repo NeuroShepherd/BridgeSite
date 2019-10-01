@@ -5,7 +5,7 @@ permalink: /People/
 ---
 
 
-<center><img src="{{site.baseurl}}/images/KateRankinPhoto.jpg" alt="image" height="200" ></center>
+<center><img src="{{site.baseurl}}/assets/images/KateRankinPhoto.jpg" alt="image" height="200" ></center>
 #### <center> Kate Rankin, PhD <center>
 
 <p align="center">
@@ -13,7 +13,7 @@ Dr. Kate Rankin is a Professor in the UCSF Department of Neurology who specializ
 </p>
 <br>
 
-<center><img src="{{site.baseurl}}/images/RileyBovePhoto.jpg" alt="image" height="255"></center>
+<center><img src="{{site.baseurl}}/assets/images/RileyBovePhoto.jpg" alt="image" height="255"></center>
 #### <center> Riley Bove, MD <center>
 
 <center>
@@ -21,7 +21,7 @@ Riley’s first academic passion was anthropology, which she pursued at Harvard 
 </center>
 <br>
 
-<center><img src="{{site.baseurl}}/images/StephanSandersPhoto.jpg" alt="image" height="198"></center>
+<center><img src="{{site.baseurl}}/assets/images/StephanSandersPhoto.jpg" alt="image" height="198"></center>
 #### <center> Stephan Sanders, PhD <center>
 
 <p align="center">

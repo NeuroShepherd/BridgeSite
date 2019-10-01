@@ -8,7 +8,7 @@ layout: page
 ### <center> Real-time precision medicine analytics delivered right to the clinic for an integrated view of your patient’s health status. </center>
 
 <p align="center">
-  <img src="{{site.baseurl}}/images/bridge.jpg" height="325">
+  <img src="{{site.baseurl}}/assets/images/bridge.jpg" height="325">
   <br>
   <br>
   BRIDGE is a clinical informatics system that links to the EMR and performs real-time calculations on patient data.  Delivering clinically relevant, up-to-date, and accurate diagnostic information to providers is vital for delivering world class, individualized patient care. The BRIDGE platform provides dashboard visualizations and quantified views of patient data, including neuroimaging quantifications and normative references for patient testing data, and is directly accessibly within the UCSF APeX (Epic) EHR.

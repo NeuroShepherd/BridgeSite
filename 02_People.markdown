@@ -25,5 +25,5 @@ Riley’s first academic passion was anthropology, which she pursued at Harvard 
 #### <center> Stephan Sanders, PhD <center>
 
 <p align="center">
-
+Dr. Sanders trained as a pediatric physician at Nottingham and London in the UK before undertaking a PhD and postdoctoral research position at Yale. His research focuses on using genomics and bioinformatics to understand the etiology of human disease, especially autism spectrum disorder (ASD). Using SNP genotyping arrays on samples in the Simons Simplex Collection he clarified the important role of de novo copy number variation (CNVs) in ASD.
 </p>

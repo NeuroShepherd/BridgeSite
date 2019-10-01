@@ -5,18 +5,18 @@ permalink: /about/
 ---
 <br>
 
-<font size="5"><center><b>Mission Statement</b></center></font>
+## What is the purpose of BRIDGE?
 
-The BRIDGE application was designed for clinicians, by clinicians to improve patients’ quality of care, accuracy of diagnosis, and speed of treatment. Our innovative approach to visualizing medical record data allows providers to quickly and efficiently view patients’ lab values, cross-sectional results, longitudinal disease trajectories, neuroimaging results, and more.
-<br>
-<br>
-<br>
-<font size="5"><center><b> Current and Future Development </b></center></font>
+Currently, the most exciting advances in precision medicine (such as clinical risk algorithms and advanced imaging quantification) cannot be integrated into the EHR to inform a patient’s clinical care, because they require a high level of computation, comparison of the patient against additional non-EHR data, and graphical visualizations that are far beyond what the EHR is built to do.  
 
-The foundational platform for BRIDGE has four visualization widgets and infrastructure for brain MRI quantification.  We have used these to create clinic-specific dashboards for the Multiple Sclerosis, Memory and Aging, and Child Autism clinics.  
+The BRIDGE application was designed by a team of clinical researchers to solve the technical problem of bringing these research advances into clinic more quickly.  Each BRIDGE dashboard is designed by individual clinics themselves, to give their clinicians a way to calculate and visualize specific aspects of their patients’ data at a level consistent with the most recently published advances in their clinical field.  BRIDGE was built to provide technological support for these clinicians’ efforts to improve quality of care, accuracy of diagnosis, and speed of treatment for their patients.
 
-Rather than locking the platform into being useful for just our three clinics, we built BRIDGE from the start to be modular and configurable, so that other clinics could rapidly adapt it to their patients, their questions, and their needs.
+## Current Features
 
-We are already working with other clinics within the Weill Institute for Neurosciences to design and build their own dashboards, and we hope to expand beyond these groups until every clinic who wants a BRIDGE dashboard has one.
+BRIDGE currently has four visualization widgets and infrastructure for brain MRI quantification (currently implementing volumetric and lesion-identification protocols). We have used these to create clinic-specific dashboards for the Multiple Sclerosis, Memory and Aging, and Child Autism clinics at the Weill Institute for Neurosciences at UCSF.
 
-We also are continuously expanding the functionality of BRIDGE to include new computational widgets.  We are building a timeline viewer, adding brain MRI quantification protocols, bringing in new computational algorithms, and have plans to build widgets for wearable digital data streams (i.e., from smartwatches)
+## Future Development
+
+<b>New Clinics:</b>  From the start, BRIDGE was designed and built to be modular and configurable, so that other clinics could rapidly adapt it to their patients, their questions, and their needs. We are currently working with each of the main Neurology and Psychiatry clinics in the Weill Institute for Neurosciences to design and build their own BRIDGE dashboards. We also have begun new collaborations with UCSF clinics outside of the WIN, including the UCSF Breast Cancer Clinic. Our long-term goal is to develop the capacity to expand beyond these groups until every clinic who wants a BRIDGE dashboard has one.
+
+<b>New Features:</b>  We also are continuously expanding the functionality of BRIDGE to include new computational widgets. We are building a timeline viewer, adding imaging quantification protocols, bringing in new computational algorithms, and have plans to build widgets for wearable digital data streams (i.e., from smartwatches).

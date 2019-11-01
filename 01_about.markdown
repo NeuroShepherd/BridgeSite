@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <br>
 
-### What is BRIGE?
+### What is BRIDGE?
 
 BRIDGE is a SMART on FIHR application that launches directly from the EMR, pulls a patient’s clinical data but also their laboratory, MRI and research data together, and then displays these data using customized visualization widgets. We currently have four core visualization widgets, as well as infrastructure for brain MRI quantification (currently implementing volumetric and lesion-identification protocols). We have used these to create clinic-specific dashboards for the Multiple Sclerosis, Memory and Aging, and Child Autism clinics at the Weill Institute for Neurosciences at UCSF.
 

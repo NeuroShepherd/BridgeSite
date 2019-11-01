@@ -27,3 +27,9 @@ Dr. Kate Rankin is a Professor in the UCSF Department of Neurology who specializ
 <p align="center">
 Dr. Sanders trained as a pediatric physician at Nottingham and London in the UK before undertaking a PhD and postdoctoral research position at Yale. His research focuses on using genomics and bioinformatics to understand the etiology of human disease, especially autism spectrum disorder (ASD). Using SNP genotyping arrays on samples in the Simons Simplex Collection he clarified the important role of de novo copy number variation (CNVs) in ASD.
 </p>
+<br>
+
+<center><img src="{{site.baseurl}}/assets/images/Erica_Schleimer.png" alt="image" height="198"></center>
+#### <center> Erica Schleimer <center>
+
+Erica Schleimer is a Lead Software Engineer in the UCSF Department of Neurology’s Center for Multiple Sclerosis and Neuroinflammation. She has 7 years of experience in application development and healthcare technology. She is the lead developer and project manager for BRIDGE.

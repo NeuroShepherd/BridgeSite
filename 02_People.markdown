@@ -32,4 +32,6 @@ Dr. Sanders trained as a pediatric physician at Nottingham and London in the UK 
 <center><img src="{{site.baseurl}}/assets/images/Erica_Schleimer.png" alt="image" height="198"></center>
 #### <center> Erica Schleimer <center>
 
+<p align="center">
 Erica Schleimer is a Lead Software Engineer in the UCSF Department of Neurology’s Center for Multiple Sclerosis and Neuroinflammation. She has 7 years of experience in application development and healthcare technology. She is the lead developer and project manager for BRIDGE.
+</p>

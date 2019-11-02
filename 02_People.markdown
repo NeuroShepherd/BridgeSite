@@ -22,10 +22,10 @@ Dr. Kate Rankin is a Professor in the UCSF Department of Neurology who specializ
 <br>
 
 <center><img src="{{site.baseurl}}/assets/images/StephanSandersPhoto.jpg" alt="image" height="198"></center>
-#### <center> Stephan Sanders, PhD <center>
+#### <center> Stephan J. Sanders, BMBS, PhD <center>
 
 <p align="center">
-Dr. Sanders trained as a pediatric physician at Nottingham and London in the UK before undertaking a PhD and postdoctoral research position at Yale. His research focuses on using genomics and bioinformatics to understand the etiology of human disease, especially autism spectrum disorder (ASD). Using SNP genotyping arrays on samples in the Simons Simplex Collection he clarified the important role of de novo copy number variation (CNVs) in ASD.
+Dr. Sanders is an Associate Professor in the Department of Psychiatry who specializes in bioinformatics and genomics to elucidate the cause of autism spectrum disorder (ASD) and other neurodevelopmental disorders. He trained as a pediatric physician in the UK before pursuing graduate and postdoctoral studies at Yale in the laboratory of Dr. Matthew State. His work has helped characterize the role of *de novo* mutations in the etiology of ASD and formalize the identified of risk loci from rare variants in genomic data, including de novo duplications of the 7q11.23 William’s Syndrome region and *de novo* loss of function mutations in the sodium channel gene [*SCN2A*](https://www.scn2a.org). As a prinicipal investigator of the Autism Sequencing Consortium (ASC) he has contributed to the identification of over one hundred genes that play a role in ASD. He co-leads the ASC whole-genome sequencing working group, which has developed the [Category-Wide Association Study (CWAS) and *De Novo* Risk Score (DNRS) methods](https://github.com/sanderslab/cwas) for systematic evaluation of the role of rare variation in the noncoding genome. Along with being a founding member of the BRIDGE project, he directs the Psychiatry Department Bioinformatics Core, which designs and implements cloud-based genomic and functional genomic analysis pipelines for the UCSF community, sits on the Steering Committee of the [Center for Maternal-Fetal Precision Medicine](https://mfprecision.ucsf.edu). 
 </p>
 <br>
 

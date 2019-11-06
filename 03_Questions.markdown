@@ -14,4 +14,4 @@ Yes. Providing a secure environment for patients’ sensitive health information
 We welcome new partner clinics! For successful design and implementation of a BRIDGE dashboard, a new clinic requires a clinical champion with domain expertise who can develop a vision for which quantifications and visualizations are right for that clinic. The first step is for the interested clinicians to discuss this vision with members of the BRIDGE team. If both parties agree upon feasibility, funding, and timeline, then the next steps include determining end-user requirements (e.g., adapting existing visualization widgets and APIs to new data; building new visualization widgets or APIs; integrating new heavy computational analytics). The process and costs to create a dashboard for a new clinic is variable based on these end-user needs.
 
 ### Who can I contact to learn more?
-For more information, please feel free to contact the BRIDGE Lead Developer [Erica Schleimer](Erica.schleimer@ucsf.edu).
+For more information, please feel free to contact the BRIDGE Lead Developer [Erica Schleimer](mailto:Erica.schleimer@ucsf.edu).
